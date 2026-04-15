@@ -21,4 +21,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ${{ secrets.galactusdeployer }}/Experiment-9-:latest
+          tags: galactusdeployer/experiment-9:latest
